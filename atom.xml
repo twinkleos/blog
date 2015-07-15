@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[Twinkle Yan Tech Blog]]></title>
+  <subtitle><![CDATA[技术改变生活]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://twinkleos.github.io//"/>
+  <updated>2015-07-15T09:04:16.861Z</updated>
+  <id>http://twinkleos.github.io//</id>
+  
+  <author>
+    <name><![CDATA[Twinkle yan]]></name>
+    <email><![CDATA[twinkle.yan@foxmail.com]]></email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[从Hello World开始]]></title>
+    <link href="http://twinkleos.github.io/2015/07/15/begin-from-hello-world/"/>
+    <id>http://twinkleos.github.io/2015/07/15/begin-from-hello-world/</id>
+    <published>2015-07-15T08:50:11.000Z</published>
+    <updated>2015-07-15T09:04:16.861Z</updated>
+    <content type="html"><![CDATA[<h2 id="下载、安装JDK">下载、安装JDK</h2><h3 id="配置环境变量">配置环境变量</h3><h3 id="编写第一个程序——HelloWorld">编写第一个程序——HelloWorld</h3><h3 id="编译、运行">编译、运行</h3><h3 id="小结">小结</h3>]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="下载、安装JDK">下载、安装JDK</h2><h3 id="配置环境变量">配置环境变量</h3><h3 id="编写第一个程序——HelloWorld">编写第一个程序——HelloWorld</h3><h3 id="编译、运行">编译、运行</h3><h3 ]]>
+    </summary>
+    
+  </entry>
+  
+</feed>

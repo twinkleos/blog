@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   
-  <title><![CDATA[Twinkle Yan Tech Blog]]></title>
+  <title><![CDATA[Twinkle Yan Blog]]></title>
   <subtitle><![CDATA[技术改变生活]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://twinkleos.github.io//"/>

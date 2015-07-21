@@ -5,7 +5,7 @@
   <subtitle><![CDATA[技术改变生活]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://twinkleos.github.io//"/>
-  <updated>2015-07-20T03:06:42.656Z</updated>
+  <updated>2015-07-21T06:39:45.472Z</updated>
   <id>http://twinkleos.github.io//</id>
   
   <author>
@@ -16,15 +16,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[begin-blog-from-today]]></title>
-    <link href="http://twinkleos.github.io/2015/07/20/begin-blog-from-today/"/>
-    <id>http://twinkleos.github.io/2015/07/20/begin-blog-from-today/</id>
-    <published>2015-07-20T03:06:42.000Z</published>
-    <updated>2015-07-20T03:06:42.656Z</updated>
-    <content type="html"></content>
+    <title><![CDATA[无痛Archlinux入门]]></title>
+    <link href="http://twinkleos.github.io/2015/07/21/painless-archlinux-primer/"/>
+    <id>http://twinkleos.github.io/2015/07/21/painless-archlinux-primer/</id>
+    <published>2015-07-21T06:07:18.000Z</published>
+    <updated>2015-07-21T06:39:45.472Z</updated>
+    <content type="html"><![CDATA[<h2 id="为什么是无痛Archlinux入门">为什么是无痛Archlinux入门</h2><h3 id="Archlinux的学习门槛">Archlinux的学习门槛</h3><h3 id="使用Archlinux有什么好处">使用Archlinux有什么好处</h3><h2 id="Archlinux快速安装指南">Archlinux快速安装指南</h2><h3 id="下载、制作ISO应用镜像">下载、制作ISO应用镜像</h3><h3 id="安装Archlinux基本系统及Gnome桌面">安装Archlinux基本系统及Gnome桌面</h3><h3 id="加入第三方repo，可以更方便的使用一些工具">加入第三方repo，可以更方便的使用一些工具</h3>]]></content>
     <summary type="html">
-    
+    <![CDATA[<h2 id="为什么是无痛Archlinux入门">为什么是无痛Archlinux入门</h2><h3 id="Archlinux的学习门槛">Archlinux的学习门槛</h3><h3 id="使用Archlinux有什么好处">使用Archlinux有什么好处</h3><]]>
     </summary>
+    
+      <category term="Linux" scheme="http://twinkleos.github.io/tags/Linux/"/>
+    
+      <category term="Archlinux" scheme="http://twinkleos.github.io/categories/Archlinux/"/>
     
   </entry>
   

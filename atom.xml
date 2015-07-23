@@ -5,7 +5,7 @@
   <subtitle><![CDATA[技术改变生活]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://twinkleos.github.io//"/>
-  <updated>2015-07-22T16:35:51.675Z</updated>
+  <updated>2015-07-23T08:10:27.668Z</updated>
   <id>http://twinkleos.github.io//</id>
   
   <author>
@@ -14,6 +14,19 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[smallbaby]]></title>
+    <link href="http://twinkleos.github.io/2015/07/23/smallbaby/"/>
+    <id>http://twinkleos.github.io/2015/07/23/smallbaby/</id>
+    <published>2015-07-23T08:10:27.000Z</published>
+    <updated>2015-07-23T08:10:27.668Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[无痛Archlinux入门]]></title>

@@ -18,6 +18,8 @@
     
     <meta name="author" content="Twinkle yan">
     
+    <meta name="description" content="Java程序猿">
+    
     
     
     
@@ -82,7 +84,7 @@
 <header class="article-info clearfix">
   <h1 itemprop="name">
     
-      <a href="/2015/07/23/smallbaby/" title="smallbaby" itemprop="url">smallbaby</a>
+      <a href="/baby/smallbaby.html" title="smallbaby" itemprop="url">smallbaby</a>
   </h1>
   <p class="article-author">By
     
@@ -102,11 +104,6 @@
 	<div class="article-content">
 		
 		
-		<div id="toc" class="toc-article">
-			<strong class="toc-title">文章目录</strong>
-		
-		</div>
-		
 		  
 	</div>
 		<footer class="article-footer clearfix">
@@ -116,7 +113,7 @@
 
 <div class="article-share" id="share">
 
-  <div data-url="http://twinkleos.github.io/2015/07/23/smallbaby/" data-title="smallbaby | Twinkle Yan Blog" data-tsina="null" class="share clearfix">
+  <div data-url="http://twinkleos.github.io/baby/smallbaby.html" data-title="smallbaby | Twinkle Yan Blog" data-tsina="null" class="share clearfix">
   </div>
 
 </div>
@@ -124,19 +121,6 @@
    	       
 	</article>
 	
-<nav class="article-nav clearfix">
- 
-
-<div class="next">
-<a href="/2015/07/21/painless-archlinux-primer/"  title="无痛Archlinux入门">
- <strong>NEXT:</strong><br/> 
- <span>无痛Archlinux入门
-</span>
-</a>
-</div>
-
-</nav>
-
 	
 <section class="comment">
 	<div class="ds-thread"></div>
@@ -236,8 +220,6 @@ $(document).ready(function(){
       m.removeClass('moveMain');
       a.css('display', 'block').removeClass('fadeOut');
       o.css('display', 'none');
-      
-      $('#toc.toc-aside').css('display', 'none');
         
     }
   });
@@ -254,38 +236,6 @@ $(document).ready(function(){
   $(window).scroll(function(){
     o.css("top",Math.max(80,260-$(this).scrollTop()));
   });
-});
-</script>
-
-<script type="text/javascript">
-$(document).ready(function(){ 
-  var ai = $('.article-content>iframe'),
-      ae = $('.article-content>embed'),
-      t  = $('#toc'),
-      h  = $('article h2')
-      ah = $('article h2'),
-      ta = $('#toc.toc-aside'),
-      o  = $('.openaside'),
-      c  = $('.closeaside');
-  if(ai.length>0){
-    ai.wrap('<div class="video-container" />');
-  };
-  if(ae.length>0){
-   ae.wrap('<div class="video-container" />');
-  };
-  if(ah.length==0){
-    t.css('display','none');
-  }else{
-    c.click(function(){
-      ta.css('display', 'block').addClass('fadeIn');
-    });
-    o.click(function(){
-      ta.css('display', 'none');
-    });
-    $(window).scroll(function(){
-      ta.css("top",Math.max(140,320-$(this).scrollTop()));
-    });
-  };
 });
 </script>
 
